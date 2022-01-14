@@ -1,16 +1,80 @@
-### Hi there 👋
+<h2>नमस्ते (Namaste)🙏🏻, I'm Kushagra Bhagat! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**kushagrabhagat/kushagrabhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Third Year CSE Student, who loves DataScience and AI ❤️
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
+- 🌱 I’m currently learning - Object Detection using TF2 🤡
+- 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
+- 🤔 I’m looking for Intern 😄
+- 💬 Ask me about - Anything 🤫
+- ⚡ Fun fact: I love Pizza 🍕 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> 😊</em>
+
+[<img align="left" alt="Kushagra Bhagat | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Kushagra Bhagat | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
+[<img align="left" alt="Kushagra Bhagat | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+
+
+
+
+
+<br />
+<!--### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
+<br />
 -->
+
+<BR>
+  
+<p>
+    <img class="center" alt="Kushagra Bhagat's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=kushagrabhagat.kushagrabhagat"/>
+</p>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-JupyterNB-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&logo=Transformers&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-HuggingFace-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+
+<p align="center">
+<a href="https://github.com/kushagrabhagat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrabhagat&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kushagrabhagat&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="kushagrabhagat's github stats"/>
+</a></p>
+<br>
+
+
+
+
+
+<!--🌟 From [Kushagra Bhagat](https://github.com/kushagrabhagat)-->
+[linkedin]: https://www.linkedin.com/in/kushagrabhagat/
+[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=karan99687@gmail.com.com&su=SUBJECT&body=BODY&tf=1
+[Instagram]: https://www.instagram.com/kushagrabhagat/
+
