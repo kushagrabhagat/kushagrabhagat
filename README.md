@@ -3,7 +3,7 @@
 
 ### I am a Third Year CSE Student, who loves DataScience and AI ❤️
 
-- 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
+- 🔭 I’m currently working on - Generalization of Deep-Fake Detection 🤓
 - 🌱 I’m currently learning - Object Detection using TF2 🤡
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
 - 🤔 I’m looking for Intern 😄
